@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 🖖
+My name is Aleksei Medvedev. 
+I am an astrophysist from the Special Astrophysical Observatory, who loves science and music. 
 
 <!--
 **a-s-medvedev/a-s-medvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
